@@ -1,0 +1,12 @@
+transformers
+nltk
+langchain
+langchain_experimental
+langchain_openai
+fastapi
+uvicorn
+python-multipart
+pypdf
+spacy
+SentencePiece
+PyTorch
